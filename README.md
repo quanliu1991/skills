@@ -2,6 +2,17 @@
 
 Personal [Cursor Agent Skills](https://cursor.com) — clone this repo and copy skill folders into your Cursor skills directory so the agent can follow `SKILL.md` for each workflow.
 
+**Mirrors:** [GitHub](https://github.com/quanliu1991/skills) · [GitCode](https://gitcode.com/gcw_DwI0fw6c/skills)
+
+```bash
+# GitHub
+git clone git@github.com:quanliu1991/skills.git
+# GitCode
+git clone git@gitcode.com:gcw_DwI0fw6c/skills.git
+# HTTPS (GitCode)
+git clone https://gitcode.com/gcw_DwI0fw6c/skills.git
+```
+
 ## Skills in this repo
 
 | Skill | Description |
@@ -10,10 +21,11 @@ Personal [Cursor Agent Skills](https://cursor.com) — clone this repo and copy 
 
 ## Install (any OS)
 
-1. **Clone**
+1. **Clone** (pick either mirror, then `cd skills`)
 
    ```bash
    git clone git@github.com:quanliu1991/skills.git
+   # or: git clone git@gitcode.com:gcw_DwI0fw6c/skills.git
    cd skills
    ```
 
