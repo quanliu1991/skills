@@ -1,0 +1,8 @@
+{
+  "name": "infographic-skill",
+  "private": true,
+  "description": "Playwright dependency for infographic screenshot script",
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

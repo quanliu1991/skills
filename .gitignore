@@ -1,0 +1,19 @@
+# Dependencies (install locally: cd infographic && npm install)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Logs / env
+*.log
+.env
+.env.*
+
+# Local-only files in repo root (private notes / working copies)
+/test.md
+/infographic-course.html
+/infographic-course.png
